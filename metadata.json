@@ -1,0 +1,6 @@
+{
+  "name": "RIELTCOM — Агентство недвижимости в Степногорске",
+  "description": "Официальный сайт агентства недвижимости RIELTCOM в Степногорске. Покупка, продажа, мена квартир и оформление документов любой сложности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
